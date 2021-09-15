@@ -1,0 +1,29 @@
+[33mcommit 010195c919a52e337c5d32f67fd33115e95e5ab1[m[33m ([m[1;36mHEAD -> [m[1;32mtitulo[m[33m)[m
+Author: Maria Carolina <mac_game@outlook.com>
+Date:   Wed Sep 15 12:11:18 2021 -0300
+
+    Alterando titulo da pagina
+
+[33mcommit 973dbb4acbd26c4e3eddd93d5138835e06ab2308[m[33m ([m[1;31morigin/master[m[33m, [m[1;31mlocal/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Maria <mac_game@outlook.com>
+Date:   Wed Sep 15 11:14:54 2021 -0300
+
+    Renomeando curso de Integração Continua
+
+[33mcommit 54d6f6969fd2ea405b9e08ab06245d54d5672409[m
+Author: Maria Carolina <mac_game@outlook.com>
+Date:   Wed Sep 15 10:25:03 2021 -0300
+
+    Adicionando .gitignore
+
+[33mcommit 376838a8e32e67cea28fd173c91990227f2a7606[m
+Author: Maria <mag_game@outlook.com>
+Date:   Wed Sep 15 07:47:19 2021 -0300
+
+    acento adicionado no curso de integração continua
+
+[33mcommit fd796d836e2b63766beebe19cc3c17b7fb1e2b33[m
+Author: Maria <mag_game@outlook.com>
+Date:   Wed Sep 15 07:38:50 2021 -0300
+
+    criando arquivo index.html com lista de cursos
